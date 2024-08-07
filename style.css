@@ -1,6 +1,7 @@
 html, body{
     height: 100;
     width: 100;
+    margin: 100px;
 }
 body{
     background-color: rgb(148, 145, 214);
@@ -13,3 +14,5 @@ h2{
 p{
     color: white;
 }
+
+
